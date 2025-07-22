@@ -1,0 +1,18 @@
+{
+    "name": "huliwei666/jicang-webman",
+    "description": "jicang-webman",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Huliwei666\\JicangWebman\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "biubiu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
