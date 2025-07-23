@@ -28,5 +28,5 @@
     "foroco/php-browser-detection": "^2.8",
     "illuminate/validation": "^12.9",
     "symfony/translation": "^7.2"
-  },
+  }
 }
